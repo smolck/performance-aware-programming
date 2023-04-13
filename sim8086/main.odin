@@ -1,4 +1,4 @@
-package part1
+package sim8086
 
 import "core:fmt"
 import "core:os"
